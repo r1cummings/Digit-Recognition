@@ -4,7 +4,7 @@
 
 <hr>
 
-# Welcome to my CMPE 255 Project "Handwritten Digit Recognition":
+# Welcome to my CMPE 258 Project "Handwritten Digit Recognition":
 
 ## In this project we were asked to create a handwritten digit recognition tool with OpenCV in Python.
 
